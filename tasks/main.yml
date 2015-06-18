@@ -25,6 +25,7 @@
   with_items:
     - gcc
     - libselinux-python
+    - ntp
     - git
     - zsh
     - mosh
